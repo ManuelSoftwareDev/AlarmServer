@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmServerService", "AlarmServerService\AlarmServerService.csproj", "{9A04B8FE-B0C0-44A4-A6FA-D85EDE7DD149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmServer.Core.Common", "AlarmServer.Core.Common\AlarmServer.Core.Common.csproj", "{E2EC725F-78A0-47F3-9248-DDCF4937BCA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmServer.ConfigurationTool", "AlarmServer.ConfigurationTool\AlarmServer.ConfigurationTool.csproj", "{701814C2-8B1C-4B27-ADE9-44652AC67CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A04B8FE-B0C0-44A4-A6FA-D85EDE7DD149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A04B8FE-B0C0-44A4-A6FA-D85EDE7DD149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A04B8FE-B0C0-44A4-A6FA-D85EDE7DD149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A04B8FE-B0C0-44A4-A6FA-D85EDE7DD149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EC725F-78A0-47F3-9248-DDCF4937BCA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EC725F-78A0-47F3-9248-DDCF4937BCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EC725F-78A0-47F3-9248-DDCF4937BCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EC725F-78A0-47F3-9248-DDCF4937BCA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701814C2-8B1C-4B27-ADE9-44652AC67CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701814C2-8B1C-4B27-ADE9-44652AC67CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701814C2-8B1C-4B27-ADE9-44652AC67CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701814C2-8B1C-4B27-ADE9-44652AC67CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56832108-EB8D-40BA-9BFE-7640562F3D2F}
+	EndGlobalSection
+EndGlobal
